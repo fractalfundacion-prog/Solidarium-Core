@@ -1,0 +1,15 @@
+# --- SEGURIDAD ---
+.env
+secrets.json
+
+# --- BASURA DEL SISTEMA ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- PROGRAMACIÓN ---
+__pycache__/
+node_modules/
+build/
+dist/
+*.log
