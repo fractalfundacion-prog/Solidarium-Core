@@ -1,0 +1,26 @@
+[
+  {
+    "objeto": "Tapa de refresco",
+    "marcas": ["Coca-Cola", "Pepsi", "Postobon"],
+    "material_principal": "PP",
+    "accion_extra": "Retirar sello interno (liner) para doble recuperación",
+    "puntos_base": 5,
+    "puntos_bono_conciencia": 3
+  },
+  {
+    "objeto": "Tapa de bebida energética",
+    "marcas": ["Powerade", "Gatorade"],
+    "material_principal": "PP / PEAD",
+    "accion_extra": "Separar válvula de silicona si aplica",
+    "puntos_base": 8,
+    "puntos_bono_conciencia": 4
+  },
+  {
+    "objeto": "Tapa de desinfectante",
+    "marcas": ["Hipoclorito", "Limpisoles"],
+    "material_principal": "PEAD",
+    "accion_extra": "Limpiar residuos de químico antes de entregar",
+    "puntos_base": 10,
+    "puntos_bono_conciencia": 5
+  }
+]
