@@ -13,12 +13,12 @@ Buscamos arquitectos del cambio que se reconozcan como **consumidores y habitant
 * **IA para la Vida:** Ojos digitales para proteger la biodiversidad de Manizales.
 * **Soberanía Digital:** Un Bien Público Digital hecho por la comunidad para la comunidad.
 
-## 🛠️ Stack Tecnológico Propuesto
-Para los 12 arquitectos fundadores, el ecosistema se construirá sobre:
-* **App:** Flutter (iOS/Android).
-* **Backend:** Python + FastAPI.
-* **IA:** TensorFlow Lite (Reconocimiento local).
-* **Geo:** PostgreSQL + PostGIS (Mapas de microcuencas).
+## 🛠️ Arquitectura Descentralizada y Soberana
+Buscamos herramientas que reflejen nuestra naturaleza orgánica y distribuida:
+* **Core:** Arquitecturas *Local-First* (Privacidad y funcionamiento offline total).
+* **Interoperabilidad:** Protocolos de código abierto que permitan la descentralización de los datos de ciencia ciudadana.
+* **Inteligencia:** Modelos de IA *Edge* (ejecutados en el dispositivo del usuario) para no depender de servidores centrales.
+* **Geomática:** Herramientas de mapeo libre y colaborativo que empoderen el territorio sin fronteras corporativas.
 
 ## 🚀 Cómo Empezar
 1. **Fork al Alma:** Clona este repo y hazlo tuyo.
