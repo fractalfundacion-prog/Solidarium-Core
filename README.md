@@ -24,6 +24,23 @@ Buscamos herramientas que reflejen nuestra naturaleza orgánica y distribuida:
 1. **Fork al Alma:** Clona este repo y hazlo tuyo.
 2. **Primer Issue:** Revisa las tareas marcadas como `espíritu-solidarium`.
 3. **Territorio:** Si el código no mejora una quebrada, el commit no vale.
+# 🌿 Solidarium 2.0: Inteligencia Territorial
+**Desarrollado por Fundación Fractal - Manizales, Colombia**
 
+Solidarium es más que una App de reciclaje; es una plataforma de **Soberanía Tecnológica** para la recuperación de ecosistemas. 
+
+## 🚀 Funcionalidades Clave (Roadmap)
+* **Diccionario de Materiales IA:** Identificación de polímeros (PP, PEAD) y bonos por retiro de sellos (liners).
+* **Mis Proyectos:** Cada Guardián gestiona su propio impacto, transformando puntos críticos en zonas recuperadas.
+* **Trazabilidad Antes/Después:** Registro fotográfico y geolocalizado del impacto ambiental real en el territorio.
+
+## 💻 Stack Tecnológico
+* **Frontend:** Flutter (iOS/Android)
+* **Backend:** Python (FastAPI) 
+* **IA:** Llama 3 / Ollama para visión artificial local.
+* **DB:** PostgreSQL + PostGIS (Para mapas de impacto).
+
+## 🤝 Cómo contribuir
+Buscamos desarrolladores que quieran aplicar su talento en un proyecto de impacto real. Revisa nuestras **Issues** para ver las tareas pendientes del módulo de "Mis Proyectos".
 ---
 *Solidarium 2.0: Recuperar para Regenerar.*
